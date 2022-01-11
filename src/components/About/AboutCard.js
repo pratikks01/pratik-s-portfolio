@@ -11,7 +11,9 @@ function AboutCard() {
             Hello there!, I'm <span className="purple">Pratik Shastrakar </span>
             from <span className="purple"> Nagpur, MH, India.</span>
             <br />I am pursuing B.E. from Shri Ramdeobaba College of Engineering
-            and Management, Nagpur
+            and Management, Nagpur in Electronics Engineering and currently I am
+            in my III year. My Intrests are Data Structure and Algorithms and
+            Web Development.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
