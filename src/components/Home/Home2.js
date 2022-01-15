@@ -35,7 +35,7 @@ function Home2() {
                 {/* and
                 also in areas related to{" "} */}
                 {/* <b className="purple"> */}
-                {/* Deep Learning and Natural Launguage Processing.
+                {/* Some Machine Learning.
                 </b> */}
               </i>
               <br />
