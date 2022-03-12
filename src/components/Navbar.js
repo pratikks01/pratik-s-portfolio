@@ -14,7 +14,7 @@ import {
 	AiOutlineUser,
 } from "react-icons/ai";
 
-import { CgFileDocument } from "react-icons/cg";
+// import { CgFileDocument } from "react-icons/cg";
 
 function NavBar() {
 	const [expand, updateExpanded] = useState(false);
