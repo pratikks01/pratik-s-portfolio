@@ -4,6 +4,9 @@
 
 A Personal Portfolio website made for the Microsoft internship (Future Ready Talent)
 The Tech Stack used : HTML, CSS, Javascript, Bootstrap, React.js, Express.js.
+
+This is a multipage website that is made using HTML, CSS, Javascript. There are a few pages in the website namely Home, Projects, resume and about. This website is device scalable that is,it can be viewed on small screen devices (mobiles) as well as large screen devices (PC). The multiage functionality was made using express, the website used React.js as the frontend framework. It has a Resume page where I have uploaded my resume, and a download button is also given to download the resume. The website also have social links to redirect user to the mentioned social media handles.
+
 ## Link to the website hosted on MS Azure
 The link for the website hosted at [MS AZURE](https://kind-cliff-0fa990f10.1.azurestaticapps.net/)
 
@@ -46,15 +49,19 @@ The Azure dashboard can be seen below.
 ## Tech Stack
 **Client:** React JS
 
-**Front-end frameworks:** Bootstrap, axios
+**Front-end frameworks:** Bootstrap, Axios
 
 **Backend-end frameworks:** Express, Mongoose
+
+**Primary Azure Technology:** Azure Static Web App, Visual Studio Code
+
 
 ## Demo
 
 https://kind-cliff-0fa990f10.1.azurestaticapps.net/
 
 https://pratik-s-portfolio.netlify.app/
+
 ## Run Locally
 Clone the project
 ```bash
