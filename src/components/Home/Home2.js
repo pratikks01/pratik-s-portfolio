@@ -7,6 +7,7 @@ import {
 	AiFillGithub,
 	AiOutlineTwitter,
 	AiFillInstagram,
+	AiFillMail,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -21,7 +22,7 @@ function Home2() {
 						</h1>
 						<p className="home-about-body">
 							I fell in love with programming and I have at least learnt
-							something, I think… 😅
+							something, I think…
 							<br />
 							<br />I am good in classics like
 							<i>
@@ -41,16 +42,13 @@ function Home2() {
 							<br />
 							<br />I have just started exploring the Web Deveopment world and
 							exploring new and exciting Technologies like,{" "}
-							<b className="purple">Node.js</b> and
+							{/* <b className="purple">Node.js</b> and */}
 							<i>
-								<b className="purple">
-									{" "}
-									MERN, Modern Javascript Library and Frameworks
-								</b>
+								<b className="purple"> Cloud Computing</b>
 							</i>
-							&nbsp; like
+							&nbsp; and
 							<i>
-								<b className="purple"> React.js and Next.js</b>
+								<b className="purple"> React.js and Node.js</b>
 							</i>
 						</p>
 					</Col>
@@ -67,6 +65,16 @@ function Home2() {
 							Feel free to <span className="purple">connect </span>with me
 						</p>
 						<ul className="home-about-social-links">
+							<li className="social-icons">
+								<a
+									href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pshastrakar4@gmail.com"
+									target="_blank"
+									rel="noreferrer"
+									className="icon-colour  home-social-icons"
+								>
+									<AiFillMail />
+								</a>
+							</li>
 							<li className="social-icons">
 								<a
 									href="https://github.com/pstricks01"

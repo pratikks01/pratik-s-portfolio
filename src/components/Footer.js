@@ -4,6 +4,7 @@ import {
 	AiFillGithub,
 	AiOutlineTwitter,
 	AiFillInstagram,
+	AiFillMail,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -14,13 +15,23 @@ function Footer() {
 		<Container fluid className="footer">
 			<Row>
 				<Col md="4" className="footer-copyright">
-					<h3>Made with ❤️ by Pratik Shastrakar</h3>
+					<h3>Made by Pratik Shastrakar</h3>
 				</Col>
 				<Col md="4" className="footer-copyright">
-					<h3>Copyright © {year} pstricks01</h3>
+					<h3>Copyright © {year} pratikks01</h3>
 				</Col>
 				<Col md="4" className="footer-body">
 					<ul className="footer-icons">
+						<li className="social-icons">
+							<a
+								href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pshastrakar4@gmail.com"
+								style={{ color: "white" }}
+								target="_blank"
+								rel="noopener noreferrer"
+							>
+								<AiFillMail />
+							</a>
+						</li>
 						<li className="social-icons">
 							<a
 								href="https://github.com/pstricks01"

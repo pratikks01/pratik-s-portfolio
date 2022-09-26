@@ -5,6 +5,7 @@ import Particle from "../Particle";
 
 import psMessenger from "../../Assets/Projects/ps-messengerHome.png";
 import portfolioSS from "../../Assets/Projects/portfolioSS.png";
+import sudokuSolver from "../../Assets/Projects/sudokuSolver.png";
 import OnlineGym from "../../Assets/Projects/OnlineGym.png";
 
 function Projects() {
@@ -26,6 +27,15 @@ function Projects() {
 							title="Online Gym Website"
 							description="This is a website that displays various exercises and the muscles targeted by them, and also shows gifs and video tutorials to properly do them. React.js, along with Material UI, was used to make the frontend. ExerciseDB and YT download APIs were used to fetch data from the RapidAPI cloud, hosted on Netlify. "
 							link="https://github.com/pstricks01/fitness-app.git"
+						/>
+					</Col>
+					<Col md={4} className="project-card">
+						<ProjectCard
+							imgPath={sudokuSolver}
+							isBlog={false}
+							title="Sudoku Solver C++"
+							description="Created a Sudoku solver in C++. A backtracking algorithm was used to refill cells with correct entries. Verified using three criteria (Row,Column, Grid). HTML and CSS were used to create a static webpage."
+							link="https://github.com/pstricks01/SudukoSolverWeb/tree/main"
 						/>
 					</Col>
 					<Col md={4} className="project-card">
