@@ -2,7 +2,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/837df1b6-0c5e-4fc6-9a77-7d9f1a970b8a/deploy-status)](https://app.netlify.com/sites/online-gym/deploys)
 
 
-A Personal Portfolio website made for the Microsoft internship (Future Ready Talent)
+A Personal Portfolio website 
 The Tech Stack used : HTML, CSS, Javascript, Bootstrap, React.js, Express.js.
 
 This is a multipage website that is made using HTML, CSS, Javascript. There are a few pages in the website namely Home, Projects, resume and about. This website is device scalable that is,it can be viewed on small screen devices (mobiles) as well as large screen devices (PC). The multiage functionality was made using express, the website used React.js as the frontend framework. It has a Resume page where I have uploaded my resume, and a download button is also given to download the resume. The website also have social links to redirect user to the mentioned social media handles.
@@ -10,6 +10,10 @@ This is a multipage website that is made using HTML, CSS, Javascript. There are 
 ## Link to the website hosted on MS Azure
 The link for the website hosted at [MS AZURE](https://kind-cliff-0fa990f10.1.azurestaticapps.net/)
 
+## Link to the website hosted on Netlify
+The link for the website hosted at [Netlify](https://pratik-s-portfolio.netlify.app/)
+
+## Youtube Demo video link https://youtu.be/_DJUaZ8skrc
 ## Landing Page of the website:
 This page gives introduction about me
 
