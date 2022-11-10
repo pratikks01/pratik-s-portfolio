@@ -8,7 +8,7 @@ The Tech Stack used : HTML, CSS, Javascript, Bootstrap, React.js, Express.js.
 This is a multipage website that is made using HTML, CSS, Javascript. There are a few pages in the website namely Home, Projects, resume and about. This website is device scalable that is,it can be viewed on small screen devices (mobiles) as well as large screen devices (PC). The multiage functionality was made using express, the website used React.js as the frontend framework. It has a Resume page where I have uploaded my resume, and a download button is also given to download the resume. The website also have social links to redirect user to the mentioned social media handles.
 
 ## Link to the website hosted on MS Azure
-The link for the website hosted at [MS AZURE](https://kind-cliff-0fa990f10.1.azurestaticapps.net/)
+The link for the website hosted at [MS AZURE](https://pratikportfolio.azurewebsites.net/)
 
 ## Link to the website hosted on Netlify
 The link for the website hosted at [Netlify](https://pratik-s-portfolio.netlify.app/)
