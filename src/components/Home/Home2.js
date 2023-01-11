@@ -21,8 +21,8 @@ function Home2() {
 							LET ME <span className="purple"> INTRODUCE </span> MYSELF
 						</h1>
 						<p className="home-about-body">
-							I fell in love with programming and I have at least learnt
-							something, I think…
+							I fell in love with programming and, I believe, I have learned
+							something...
 							<br />
 							<br />I am good in classics like
 							<i>
@@ -30,7 +30,7 @@ function Home2() {
 							</i>
 							<br />
 							<br />
-							My field of Interest's are building new &nbsp;
+							My areas of expertise include the development of new &nbsp;
 							<i>
 								<b className="purple">Web Technologies and Products </b>
 								{/* and
@@ -40,8 +40,9 @@ function Home2() {
                 </b> */}
 							</i>
 							<br />
-							<br />I have just started exploring the Web Deveopment world and
-							exploring new and exciting Technologies like,{" "}
+							<br />
+							I've only recently begun researching the world of web development
+							and new and intriguing technologies like as{" "}
 							{/* <b className="purple">Node.js</b> and */}
 							<i>
 								<b className="purple"> Cloud Computing</b>
@@ -62,7 +63,8 @@ function Home2() {
 					<Col md={12} className="home-about-social">
 						{/* <h1>FIND ME ON</h1> */}
 						<p>
-							Feel free to <span className="purple">connect </span>with me
+							Please feel free to <span className="purple">connect </span>with
+							me
 						</p>
 						<ul className="home-about-social-links">
 							<li className="social-icons">
@@ -107,7 +109,7 @@ function Home2() {
 							</li>
 							<li className="social-icons">
 								<a
-									href="https://twitter.com/pstricks01"
+									href="https://twitter.com/pratikks01"
 									target="_blank"
 									rel="noreferrer"
 									className="icon-colour  home-social-icons"

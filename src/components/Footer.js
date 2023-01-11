@@ -5,6 +5,7 @@ import {
 	AiOutlineTwitter,
 	AiFillInstagram,
 	AiFillMail,
+	AiOutlineLink,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -64,12 +65,22 @@ function Footer() {
 						</li>
 						<li className="social-icons">
 							<a
-								href="https://twitter.com/pstricks01"
+								href="https://twitter.com/pratikks01"
 								style={{ color: "white" }}
 								target="_blank"
 								rel="noopener noreferrer"
 							>
 								<AiOutlineTwitter />
+							</a>
+						</li>
+						<li className="social-icons">
+							<a
+								href="https://linktr.ee/pratikshastrakar"
+								style={{ color: "white" }}
+								target="_blank"
+								rel="noopener noreferrer"
+							>
+								<AiOutlineLink />
 							</a>
 						</li>
 					</ul>

@@ -3,7 +3,6 @@ import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 // import { Container, Row, Col } from "react-bootstrap";
-
 // import logo from "../Assets/logo.png";
 // import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
@@ -40,7 +39,7 @@ function NavBar() {
 			<Container>
 				<Navbar.Brand href="/">
 					{/* <img src={logo} className="img-fluid logo" alt="brand" /> */}
-					<h1>Pratik Shastrakar</h1>
+					<h1 className="h1tag">Pratik Shastrakar</h1>
 				</Navbar.Brand>
 
 				<Navbar.Toggle

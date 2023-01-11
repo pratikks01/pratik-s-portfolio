@@ -12,18 +12,18 @@ function AboutCard() {
 						from <span className="purple"> Nagpur, MH, India.</span>
 						<br />I am pursuing B.E. from Shri Ramdeobaba College of Engineering
 						and Management, Nagpur in Electronics Engineering and currently I am
-						in my IV year. My Intrests are Data Structure and Algorithms and Web
-						Development.
+						in my final year. My interests are{" "}
+						<span className="purple">Cloud Computing and Web Development.</span>
 						<br />
 						<br />
-						Apart from coding, some other activities that I love to do!
+						Aside from coding, here are some other things I enjoy doing!
 					</p>
 					<ul>
 						<li className="about-activity">
 							<ImPointRight /> Photography
 						</li>
 						<li className="about-activity">
-							<ImPointRight /> Making Videos
+							<ImPointRight /> Playing Guitar
 						</li>
 						<li className="about-activity">
 							<ImPointRight /> Playing around with Electronics
